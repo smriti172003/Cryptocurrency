@@ -9,4 +9,4 @@ const Cryptocurrencies = () => {
 }
 
 export default Cryptocurrencies
- 
+    
